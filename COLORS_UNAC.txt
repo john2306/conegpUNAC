@@ -1,0 +1,25 @@
+Celeste
+RGB (0, 221, 225)
+HEX #00ddff
+
+Celeste oscuro
+RGB (52, 158, 186)
+Hex  #349eba
+
+Morado
+RGB (232, 64, 142)
+HEX: #e8408e
+
+CREMA
+RGB (255, 254, 148)
+HEX:  #fffe94
+
+AMARILLO
+RGB (249, 211, 22)
+HEX #f9d316
+
+AZUL
+RGB  (5, 42, 130)
+HEX #052a82
+
+<iframe width="706" height="397" src="https://www.youtube.com/embed/V2VpeTJUszY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
